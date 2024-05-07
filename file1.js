@@ -1,3 +1,3 @@
 const func=()=>{
-    alert("aaa");
+    alert("file1 from main");
 }
