@@ -1,3 +1,3 @@
 const func=()=>{
-    alert("file1 from branch-2");
+    alert("This is a conflict with main");
 }
